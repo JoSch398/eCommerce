@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">eCommerce</string>
+    <string name="login_button">Lógin</string>
+    <string name="login_name">Nom</string>
+    <string name="login_password">Mot du Pass</string>
+    <string name="login_toast">Toast Francaise</string>
+    <string name="login_attempts">Verbleibende Versuche:</string>
+    <string name="alarm_cancel">annuler l\'alarme</string>
+    <string name="alarm_picker">sélecteur de temps ouvert</string>
+    <string name="alarm_set">"pas d'alarme "</string>
+    <string name="shoes_remember">ne pas oublier</string>
+    <string name="action_settings">paramétrage</string>
+    <string name="fse_settings">paramétrage</string>
+    <string name="cart_add">ajouter</string>
+    <string name="cart_shoe">saulier</string>
+    <string name="fsc_shoppingcart">Panier d\'achat</string>
+    <string name="fsh_shop">faire du shopping</string>
+    <string name="pref_header_general">général</string>
+    <string name="alarm_canceled">alarme annule</string>
+    <string name="alarm_setfor">Alarme pour:</string>
+    <string name="not_main">Attentión</string>
+    <string name="not_base">Regarde pour nouveaux</string>
+    <string name="title_activity_settings">paramétrage</string>
+    <string name="pref_default_display_name">Jonàs Schmîdt</string>
+</resources>

@@ -22,12 +22,12 @@
 
 
         <Button
-            android:id="@+id/add_data"
+            android:id="@+id/open_timer"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_marginEnd="8dp"
             android:layout_marginBottom="8dp"
-            android:text="Remember me"
+            android:text="@string/shoes_remember"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent" />
     </LinearLayout>

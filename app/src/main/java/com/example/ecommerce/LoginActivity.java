@@ -29,7 +29,7 @@ public class LoginActivity extends AppCompatActivity {
         Info = (TextView) findViewById(R.id.tvInfo);
         Login  = (Button) findViewById(R.id.btnLogin);
 
-        Info.setText("Anzahl verbleibender Versuche: 5");
+        Info.setText(R.string.login_attempts+"5");
 
         Login.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -46,7 +46,7 @@ public class LoginActivity extends AppCompatActivity {
         else{
             counter--;
 
-            Info.setText("Anzahl verbleibender Versuche: "+ String.valueOf(counter));
+            Info.setText(R.string.login_attempts+ String.valueOf(counter));
             if (counter == 0){
                 Login.setEnabled(false);
             }

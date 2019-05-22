@@ -48,6 +48,9 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
         return result != -1; //result is -1 no data will  be insert
 
+        //Logging einbauen bei jeder dieser Methoden
+
+
     }
 
     //view database method

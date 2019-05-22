@@ -1,6 +1,35 @@
 <resources>
     <string name="app_name">eCommerce</string>
 
+    <string name="alarm_set">No Alarm Set</string>
+    <string name="alarm_picker">Open Time Picker</string>
+    <string name="alarm_cancel">Cancel Alarm</string>
+    <string name="alarm_canceled">Alarm canceled</string>
+    <string name="alarm_setfor">Alarm set for:</string>
+
+
+    <string name="login_name">Name</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_attempts">Remaining Attempts:</string>
+    <string name="login_toast">Toast Hawaii</string>
+
+    <string name="shoes_remember">Remember Me</string>
+
+    <string name="cart_shoe">Shoe</string>
+    <string name="cart_add">Add</string>
+
+    <string name="fse_settings">Settings</string>
+    <string name="fsh_shop">Shop</string>
+    <string name="fsc_shoppingcart">Shopping Cart</string>
+
+    <string name="not_main">Go for it!</string>
+    <string name="not_base">Check if there are new shoes available!</string>
+
+
+
+
+
     <string name="navigation_drawer_open">Open navigation drawer</string>
 
     <string name="navigation_drawer_close">Close navigation drawer</string>

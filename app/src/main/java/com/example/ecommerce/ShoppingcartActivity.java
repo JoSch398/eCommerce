@@ -54,6 +54,8 @@ public class ShoppingcartActivity extends AppCompatActivity {
             }
         });
 
+        //ADD Button der aus ListView übergibt (start Activity for Result)
+
 
         add_data.setOnClickListener(new View.OnClickListener() {
             @Override

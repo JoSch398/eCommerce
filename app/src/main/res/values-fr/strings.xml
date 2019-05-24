@@ -23,4 +23,7 @@
     <string name="not_base">Regarde pour nouveaux</string>
     <string name="title_activity_settings">paramétrage</string>
     <string name="pref_default_display_name">Jonàs Schmîdt</string>
+    <string name="pref_header_notifications">Notifcation</string>
+    <string name="pref_header_data_sync">Baguette</string>
+    <string name="pref_title_social_recommendations">"network socialité "</string>
 </resources>

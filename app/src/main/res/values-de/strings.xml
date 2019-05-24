@@ -27,4 +27,7 @@
     <string name="pref_title_display_name">Bildschrim Name</string>
     <string name="pref_default_display_name">Jonas S</string>
     <string name="pref_title_add_friends_to_messages">Freunde zum schreiben hinzufügen</string>
+    <string name="pref_header_notifications">Benachrichtigung</string>
+    <string name="pref_header_data_sync">Daten und Synch</string>
+    <string name="pref_title_social_recommendations">soziale netwerke erlauben</string>
 </resources>
